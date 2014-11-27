@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # cl-playground
 
 A Clojure library designed to ... well, that part is up to you.
@@ -16,4 +15,3 @@ your option) any later version.
 =======
 clojure-playground
 ==================
->>>>>>> 036f42212de3aed243bb66a97cb9bf784c7e6741
